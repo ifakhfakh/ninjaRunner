@@ -12,7 +12,7 @@ public class BarrelManager : MonoBehaviour
     {
         animator = player.GetComponent<Animator>();
     }
-
+ 
     // Update is called once per frame
     void Update()
     {
